@@ -261,6 +261,9 @@ section {
 
 .resume-download {
     margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
 }
 
 .resume-download .btn {
