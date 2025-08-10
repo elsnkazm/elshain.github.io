@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elshain Website
 
 A modern, responsive website for Elshain built with HTML, CSS, and JavaScript, designed to be deployed on GitHub Pages.
@@ -159,3 +160,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Inter Font](https://rsms.me/inter/) for typography
 - [Feather Icons](https://feathericons.com/) for SVG icons
 - [GitHub Pages](https://pages.github.com/) for hosting 
+=======
+# elshain.github.io
+>>>>>>> c3f72b02ebd21dd32cee18d424dc91d58f1cca8f
