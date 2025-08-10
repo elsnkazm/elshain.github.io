@@ -1,0 +1,35 @@
+title: Elshain
+description: Professional services and innovative solutions for your business needs
+url: https://elshain.com
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Site settings
+author:
+  name: Elshain
+  email: contact@elshain.com
+
+# Social media
+social:
+  twitter: elshain
+  github: elshain
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .gitignore
+  - tmp/ 
